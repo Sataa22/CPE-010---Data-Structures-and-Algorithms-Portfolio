@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" alt="C++"/>
-  <img src="https://img.shields.io/badge/Course-CPE%20010%2-%2Data%2Structures%2and%2Algorithmsorange?style=for-the-badge" alt="Course"/>
+  <img src="https://img.shields.io/badge/Course-CPE%20010-orange?style=for-the-badge" alt="Course"/>
 </p>
 
 <p align="center">

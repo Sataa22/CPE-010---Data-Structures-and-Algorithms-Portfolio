@@ -2,8 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" alt="C++"/>
-  <img src="https://img.shields.io/badge/Course-CPE%20010-orange?style=for-the-badge" alt="Course"/>
-  <img src="https://img.shields.io/badge/Status-Academic%20Portfolio-success?style=for-the-badge" alt="Academic Portfolio"/>
+  <img src="https://img.shields.io/badge/Course-CPE%20010%2-%2Data Structures and Algorithmsorange?style=for-the-badge" alt="Course"/>
 </p>
 
 <p align="center">
@@ -52,16 +51,12 @@ CPE-010/
 | 3.1 | Linked Lists |
 | 4.1 | Stacks |
 
-**Key concepts:** C++ fundamentals, memory management, pointers, dynamic allocation, linked lists, and stack operations.
-
 ### 🟡 Midterms — Sorting and Trees
 
 | Activity | Topic |
 |---|---|
 | 7.1 | Sorting Algorithms — Part 1 |
 | 9.1 | Tree ADT |
-
-**Key concepts:** Sorting techniques, Abstract Data Types (ADTs), tree structures, and organizing data efficiently.
 
 ### 🔵 Finals — Algorithms and Complexity
 
@@ -72,8 +67,6 @@ CPE-010/
 | 12.1 | Algorithmic Strategies |
 | 13.1 | Parallel Algorithms and Multithreading |
 | 14.1 | Algorithm Complexity |
-
-**Key concepts:** Graph representations, graph traversal, algorithm design, parallel processing, multithreading, and time complexity.
 
 ---
 
@@ -124,8 +117,7 @@ Through the activities in this repository, the course aims to develop the abilit
 ## 🛠️ Tools and Technologies
 
 - **Programming Language:** C++
-- **Compiler:** Any compatible C++ compiler
-- **Development Environment:** Any compatible C++ IDE or code editor
+- **Compiler:** VSCode
 - **Version Control:** Git and GitHub
 
 ## 📈 Course Outcomes
@@ -136,22 +128,6 @@ Upon completing the course activities, students should be able to:
 2. Design algorithms and analyze their computational complexity.
 3. Implement efficient solutions using appropriate data structures and good C++ programming practices.
 
-## 🌍 Sustainable Development Goal
-
-This course contributes to **SDG 9 — Industry, Innovation and Infrastructure** by developing computational problem-solving skills and encouraging the creation of efficient, innovative software solutions.
-
-## 📚 References
-
-The following references are listed in the course syllabus as learning resources and supplemental materials:
-
-- Camm, J. D., et al. (2025). *Data Visualization: Exploring and Explaining with Data* (2nd ed.). Cengage Learning.
-- Stojanovic, D. (2024). *Data Structures and Algorithms with Go: Write Complex and Powerful Go Code in the Right Way*. BPB Publications.
-- A., A., & L., P. R. (2023). *Advanced Data Structures and Algorithms: Learn How to Enhance Data Processing with More Complex and Advanced Data Structures* (1st ed.). BPB Publications.
-- Liang, Y. D. (2023). *Introduction to Python Programming and Data Structures*. Pearson Education Limited.
-- Alexis Press. (2024). *Introduction to Computer Programming*. Mitchell, C.
-- Payne, A. (2022). *Design and Analysis of Algorithms*. ED-Tech Press.
-- Coller, M. F. (2024). *Web Development: Full Stack*. Cengage.
-
 ## ⚠️ Academic Integrity and AI Use
 
 According to the course syllabus, AI tools may only be used with prior instructor approval, and any authorized use must be fully disclosed in the corresponding submission.
@@ -160,12 +136,10 @@ All repository contents should follow the instructor's requirements and applicab
 
 ## 👨‍💻 Author
 
-**Computer Engineering Student**
-
+**Kadaphy James A. Quiming - CPE21S4**
 Course: CPE 010 — Data Structures and Algorithms
 
 ---
 
-<p align="center">
-  <i>Learning by coding, improving through practice, and building efficient algorithms one activity at a time.</i>
+<p align="center"> 
 </p>
